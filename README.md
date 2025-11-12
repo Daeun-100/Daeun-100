@@ -5,6 +5,7 @@
 ## projects
 - 커피빵 (Coffee-Shout) ☕ 실시간 미니게임 웹서비스 - [깃허브 바로가기](https://github.com/woowacourse-teams/2025-coffee-shout)
 - Three.js 스터디 🎬 공동 웹사이트 - [깃허브 바로가기](https://github.com/woowacourse-study/2025-threejs-study)
+- 쉽게, 티켓 🎟️ 누구나 쉽게 배우는 티켓팅 플랫폼 -[깃허브 바로가기](https://github.com/Easy-Ti-cket/easy-ticket)
 
 ## contact
 - 📧 **Email:** drechsu@gmail.com  
