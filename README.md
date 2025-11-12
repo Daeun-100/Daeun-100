@@ -1,5 +1,5 @@
 ## 고다은 (Diane) 👋
- Frontend Engineer  
+ - Frontend Engineer  
 - UX와 DX 전반에서 경험을 개선하는 프론트엔드 개발자입니다.
 
 ## projects
